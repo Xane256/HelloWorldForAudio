@@ -145,10 +145,7 @@ WindowSize->{1024, 719},
 WindowMargins->{{135, Automatic}, {Automatic, 61}},
 Magnification->2.,
 FrontEndVersion->"10.4 for Mac OS X x86 (32-bit, 64-bit Kernel) (February 25, \
-2016)",
-StyleDefinitions->FrontEnd`FileName[{$RootDirectory, "Users", "Sandy", 
-   "Documents", "MATHEMATICA", "Activation & META things", "StyleSheet Link"},
-   "CustomStyleSheet.nb", CharacterEncoding -> "UTF-8"]
+2016)"
 ]
 (* End of Notebook Content *)
 
